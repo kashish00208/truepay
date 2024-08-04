@@ -10,7 +10,7 @@ const page = () => {
           The Finance App That Works for You
         </p>
         <span className="text-slate-800">
-          Managing money can be challenging, but you don't have to face it on
+          Managing money can be challenging, but you do not have to face it on
           your own. truePay helps you save smarter, spend wisely, view all your
           finances in one place, and reclaim control over your financial future.
         </span>
